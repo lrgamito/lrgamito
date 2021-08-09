@@ -1,7 +1,7 @@
 Olá!
 
-- 🔭 IT PO focus in systems integration
-- 🌱 Currently learning Python and RobotFramework
+- 🏷️ IT PO focus in systems integration
+- 📖 Currently learning Python and RobotFramework
 
 ##
 
