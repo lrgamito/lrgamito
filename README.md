@@ -1,6 +1,6 @@
-Olá!
+Hello!
 
-- 🏷️ IT PO focus in systems integration
+- 🏷️ IT Analyst focus in systems integration and BI.
 - 📖 Currently learning Python and RobotFramework
 
 ##
