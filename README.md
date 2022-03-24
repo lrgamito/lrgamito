@@ -1,4 +1,6 @@
-### Hello World!
+ Hello World!
+
+![GitHub Views](https://komarev.com/ghpvc/?username=lrgamito)
 
 - 🏷️ IT Analyst focus in systems integration and Business Intelligence.
 - 📖 Currently learning Python and Machine Learning.
