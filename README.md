@@ -1,7 +1,7 @@
-Hello!
+### Hello World!
 
-- 🏷️ IT Analyst focus in systems integration and BI.
-- 📖 Currently learning Python and RobotFramework
+- 🏷️ IT Analyst focus in systems integration and Business Intelligence.
+- 📖 Currently learning Python and Machine Learning.
 
 ##
 
