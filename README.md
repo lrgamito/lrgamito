@@ -13,7 +13,9 @@
 <img src="https://img.shields.io/badge/-Oracle-CC2927?style=for-the-badge&logo=Oracle&logoColor=FFFFFF" /> 
 <img src="https://img.shields.io/badge/-OCI-CC3020?style=for-the-badge&logo=Oracle&logoColor=FFFFFF" /> 
 <img src="https://img.shields.io/badge/-Linux-009999?style=for-the-badge&logo=Linux&logoColor=FFFFFF" /> 
-<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF" /> 
+<img src="https://img.shields.io/badge/-PLSQL-8B7D33?style=for-the-badge" />
+ 
 
 </div>
 
