@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/-Linux-009999?style=for-the-badge&logo=Linux&logoColor=FFFFFF" /> 
 <img src="https://img.shields.io/badge/-Windows-3776AB?style=for-the-badge&logo=windows&logoColor=FFFFFF" /> 
 <img src="https://img.shields.io/badge/-Philips%20Tasy-117BCD?style=for-the-badge" />
- <img src="https://img.shields.io/badge/-Azure-3776AB?style=for-the-badge&logo=microsoftazure&logoColor=FFFFFF%22" />
+<img src="https://img.shields.io/badge/-Azure-3776AB?style=for-the-badge&logo=microsoftazure&logoColor=FFFFFF" />
 
 
 </div>
