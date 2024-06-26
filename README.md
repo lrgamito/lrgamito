@@ -3,7 +3,7 @@
 ![GitHub Views](https://komarev.com/ghpvc/?username=lrgamito)
 
 🏷️ IT Analyst focus in Systems Integration, BI and Data Engineering.<br>
-📖 Currently learning Python and New ETL tools.
+📖 Currently learning Spark and Microsoft Fabric.
 
 ##
 
