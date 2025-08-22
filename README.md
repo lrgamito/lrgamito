@@ -2,7 +2,7 @@
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=lrgamito)
 
-🏷️ IT Professional<br>
+🏷️ IT Professional - Working as CLoud Specialist<br>
 📖 Currently learning AI and MLops
 
 ##
@@ -21,10 +21,15 @@
 <img src="https://img.shields.io/badge/-Linux-009999?style=for-the-badge&logo=Linux&logoColor=FFFFFF" /> 
 <img src="https://img.shields.io/badge/-Windows-3776AB?style=for-the-badge&logo=windows&logoColor=FFFFFF" />
 <br>
+
+</div>
+
+🌟 Certifications:
+<div>
 <img src="https://github.com/lrgamito/lrgamito/blob/main/OCI25CAA.png" width="250" height="250" /> 
 <img src="https://github.com/lrgamito/lrgamito/blob/main/OCI2024GAIOCP.png" width="250" height="250" /> 
-<img src="https://github.com/lrgamito/lrgamito/blob/main/OCI2025MCAOCP.png" width="250" height="250" /> 
-
+<img src="https://github.com/lrgamito/lrgamito/blob/main/OCI2025MCAOCP.png" width="250" height="250" />
+ <img src="https://github.com/lrgamito/lrgamito/blob/main/lpic-1.jpeg" width="250" height="250" />
 </div>
 
 ##
