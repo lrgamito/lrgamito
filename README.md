@@ -10,7 +10,7 @@
 ⚡ Knowlegde:
 
 <div>
- <img src="https://github.com/lrgamito/lrgamito/blob/main/OracleRedTag.jpg" width="30" height="30" />
+ <img src="https://github.com/lrgamito/lrgamito/blob/main/OracleRedTag.jpg" width="28" height="28" />
 <img src="https://img.shields.io/badge/-Oracle-CC2927?style=for-the-badge&logo=oracle&logoColor=FFFFFF" /> 
 <img src="https://img.shields.io/badge/-OCI-CC3020?style=for-the-badge&logo=oracle&logoColor=FFFFFF" /> 
 <img src="https://img.shields.io/badge/-PLSQL-D00830?style=for-the-badge" /> 
@@ -21,7 +21,9 @@
 <img src="https://img.shields.io/badge/-Linux-009999?style=for-the-badge&logo=Linux&logoColor=FFFFFF" /> 
 <img src="https://img.shields.io/badge/-Windows-3776AB?style=for-the-badge&logo=windows&logoColor=FFFFFF" />
 <br>
-<img src="https://github.com/lrgamito/lrgamito/blob/main/OCI2024GAIOCP.jpg" width="300" height="300" /> 
+<img src="https://github.com/lrgamito/lrgamito/blob/main/OCI25CAA.png" width="250" height="250" /> 
+<img src="https://github.com/lrgamito/lrgamito/blob/main/OCI2024GAIOCP.png" width="250" height="250" /> 
+<img src="https://github.com/lrgamito/lrgamito/blob/main/OCI2025MCAOCP.png" width="250" height="250" /> 
 
 </div>
 
