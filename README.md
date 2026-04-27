@@ -30,6 +30,8 @@
 <img src="https://github.com/lrgamito/lrgamito/blob/main/OCI25CAA.png" width="250" height="250" /> 
 <img src="https://github.com/lrgamito/lrgamito/blob/main/OCI2024GAIOCP.png" width="250" height="250" /> 
 <img src="https://github.com/lrgamito/lrgamito/blob/main/OCI2025MCAOCP.png" width="250" height="250" />
+ <img src="https://github.com/lrgamito/lrgamito/blob/main/OADBC25CP.png" width="115" height="125" />
+ <img src="https://github.com/lrgamito/lrgamito/blob/main/DB23AIOCP.png" width="250" height="250" />
  <img src="https://github.com/lrgamito/lrgamito/blob/main/lpic-1.jpeg" width="100" height="100" />
 </div>
 
